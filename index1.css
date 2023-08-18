@@ -1,0 +1,30 @@
+body{
+  background-color:#d5f1ee;
+}
+hr{
+  
+  border-style: none ;
+  border-top-style:dotted;
+  height:0px;
+  width:10%;
+  border-color: black;
+  border-width:5px;
+}
+h1{
+color: #66BFB6;
+}
+h3{
+color:#66BFB6;
+}
+.Mastan{
+  background-color: #66BFB6;
+}
+#heading{
+  color:rgb(232, 21, 21);
+}
+.saheb{
+  border-radius: 10px;
+}
+img:hover{
+ background-color:rgb(226, 141, 198) ;
+}
